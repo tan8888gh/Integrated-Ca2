@@ -1,0 +1,17 @@
+com\mycompany\cms\LecturerDAO.class
+com\mycompany\cms\reports\LecturerReport.class
+com\mycompany\cms\EnrollmentDAO.class
+com\mycompany\cms\FeedbackDAO.class
+com\mycompany\cms\reports\StudentReportGenerator.class
+com\mycompany\cms\Cms.class
+com\mycompany\cms\models\Course.class
+com\mycompany\cms\models\Lecturer.class
+com\mycompany\cms\models\Users.class
+com\mycompany\cms\DatabaseConnection.class
+com\mycompany\cms\models\Enrollment.class
+com\mycompany\cms\reports\CourseReportGenerator.class
+com\mycompany\cms\StudentDAO.class
+com\mycompany\cms\CourseDAO.class
+com\mycompany\cms\models\Feedback.class
+com\mycompany\cms\models\Student.class
+com\mycompany\cms\UsersDAO.class
