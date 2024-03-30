@@ -1,0 +1,32 @@
+Course Report:
+==============
+Module: Intro to CS
+Program: Computer Science
+Enrolled Students: 23
+Lecturer: LecturerA
+Room: 101
+
+Module: Data Fundamentals
+Program: Data Science
+Enrolled Students: 20
+Lecturer: LecturerB
+Room: 102
+
+Module: Software Dev
+Program: Software Engineering
+Enrolled Students: 18
+Lecturer: LecturerC
+Room: 103
+
+Module: IT Basics
+Program: Information Technology
+Enrolled Students: 19
+Lecturer: LecturerD
+Room: 104
+
+Module: Cybersecurity 101
+Program: Cybersecurity
+Enrolled Students: 20
+Lecturer: LecturerE
+Room: 105
+
